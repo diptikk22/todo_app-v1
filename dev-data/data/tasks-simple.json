@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript-Book",
+    "task_status": "ongoing",
+    "description": "complete the text book reading for important tasks"
+  },
+  {
+    "id": 2,
+    "title": "NodeJs",
+    "task_status": "ongoing",
+    "description": "complete the course for the getting hands on to Node"
+  },
+  {
+    "id": 3,
+    "title": "Python",
+    "task_status": "ongoing",
+    "description": "Trying improving the existing fetures in the project"
+  },
+  {
+    "id": 4,
+    "title": "College Project",
+    "task_status": "ongoing",
+    "description": "Try adding more features to it"
+  },
+  {
+    "id": 5,
+    "title": "Machine learning",
+    "task_status": "ongoing",
+    "description": "Try completing the Andrew Ng course"
+  },
+  {
+    "id": 6,
+    "title": "Research Paper",
+    "task_status": "ongoing",
+    "description": "Complete the final formatting in the document"
+  },
+  {
+    "id": 7,
+    "title": "Review-2",
+    "task_status": "ongoing",
+    "description": "Send the presentation to college"
+  },
+  {
+    "id": 8,
+    "title": "sketch",
+    "task_status": "completed",
+    "description": "Complete one sketch this weekend"
+  },
+  {
+    "id": 9,
+    "title": "mongo db",
+    "description": "Try completing the course"
+  },
+  {
+    "task_status": "ongoing",
+    "title": "mongo db",
+    "description": "Try completing the course"
+  },
+  {
+    "id": null,
+    "title": "ai assistnant report",
+    "description": "Try completing the course"
+  },
+  {
+    "task_status": "ongoing",
+    "title": "ai assistnant report",
+    "description": "Try completing the course"
+  }
+]

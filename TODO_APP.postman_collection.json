@@ -1,0 +1,66 @@
+{
+	"variables": [],
+	"info": {
+		"name": "TODO_APP",
+		"_postman_id": "f4fca371-29f4-3351-8b93-34c28100a8d8",
+		"description": "Created a basic todo app using Node.js",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET all tasks",
+			"request": {
+				"url": "127.0.0.1:3000/api/v1/tasks",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GET_Specific_task",
+			"request": {
+				"url": "127.0.0.1:3000/api/v1/tasks/5",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Create new tasks",
+			"request": {
+				"url": "127.0.0.1:3000/api/v1/tasks",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "updating_tasks",
+			"request": {
+				"url": "127.0.0.1:3000/api/v1/tasks/1",
+				"method": "PATCH",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Task",
+			"request": {
+				"url": "127.0.0.1:3000/api/v1/tasks/1",
+				"method": "DELETE",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
